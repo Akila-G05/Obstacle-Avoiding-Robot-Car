@@ -1,0 +1,9 @@
+build/
+*.bak
+*.elf
+*.hex
+*.eep
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
