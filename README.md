@@ -80,3 +80,6 @@ Motor speed is set with `analogWrite(ENA, 250)` and `analogWrite(ENB, 250)` in `
 > **Note:** pin 8 is used for motor control in the sketch but is not declared as a named
 > constant like the other pins. Verify your wiring matches the actual pin numbers used
 > in `loop()` before running.
+## License
+
+MIT — see [LICENSE](LICENSE).
